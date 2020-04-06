@@ -1,0 +1,4 @@
+13 alex 20
+12 iulia 50
+11 ion 40
+20 ionut 60

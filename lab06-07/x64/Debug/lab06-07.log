@@ -1,0 +1,32 @@
+﻿  main.cpp
+  Service.cpp
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\Repo.h(69,18): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\Repo.h(65): message : while compiling class template member function 'int Repo<Booking>::findElem(const T)'
+          with
+          [
+              T=Booking
+          ]
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\Service.cpp(41): message : see reference to function template instantiation 'int Repo<Booking>::findElem(const T)' being compiled
+          with
+          [
+              T=Booking
+          ]
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\RepoFile.h(6): message : see reference to class template instantiation 'Repo<Booking>' being compiled
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\RepoFile.h(12): message : see reference to class template instantiation 'RepoFile<T>' being compiled
+  Test.cpp
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\Repo.h(69,18): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\Repo.h(65): message : while compiling class template member function 'int Repo<Booking>::findElem(const T)'
+          with
+          [
+              T=Booking
+          ]
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\Test.cpp(30): message : see reference to function template instantiation 'int Repo<Booking>::findElem(const T)' being compiled
+          with
+          [
+              T=Booking
+          ]
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\RepoFile.h(6): message : see reference to class template instantiation 'Repo<Booking>' being compiled
+C:\Users\Iulia\source\repos\lab07-repoFile\lab06-07\RepoFile.h(12): message : see reference to class template instantiation 'RepoFile<T>' being compiled
+  UI.cpp
+  Generating Code...
+  lab06-07.vcxproj -> C:\Users\Iulia\source\repos\lab07-repoFile\x64\Debug\lab06-07.exe

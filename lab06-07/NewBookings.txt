@@ -1,0 +1,3 @@
+13 alex 20
+12 iulia 50
+20 ionut 60
